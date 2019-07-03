@@ -22,7 +22,7 @@ steps:
 2.  Give this repo a new name (preferably `greta.<something>`) and
     create a new repo in your account.
 3.  Clone the repository and start filling out all the fields to make
-    the package your own. See Jenny Bryan’s [happy git with
+    the package your own. See Jenny Bryan’s [Happy Git with
     R](https://happygitwithr.com/push-pull-github.html) if you’d like
     some help with this.
 

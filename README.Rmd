@@ -24,7 +24,7 @@ This is an empty repository to help you build an extension to greta. It's a [Git
  1. Click *Use this template* to the left of *Clone or download*.
  ![template](https://i.imgur.com/TcLpIvM.png)
  1. Give this repo a new name (preferably `greta.<something>`) and create a new repo in your account.
- 1. Clone the repository and start filling out all the fields to make the package your own. See Jenny Bryan's [happy git with R](https://happygitwithr.com/push-pull-github.html) if you'd like some help with this.
+ 1. Clone the repository and start filling out all the fields to make the package your own. See Jenny Bryan's [Happy Git with R](https://happygitwithr.com/push-pull-github.html) if you'd like some help with this.
 
 **Please don't hit the fork button**, that would make a permanent link between your repository and this one!
 

@@ -5,7 +5,9 @@
 
 <!-- badges: start -->
 
-<!-- use usethis::use_travis() to find the badge for your repo -->
+<!-- once you've signed into travis and set it to wath your new repository, you can edit the following badges to point to your repo -->
+
+<!-- [![Build Status](https://travis-ci.org/greta-dev/greta.template.svg?branch=master)](https://travis-ci.org/<user>/<repo>) -->
 
 <!-- badges: end -->
 

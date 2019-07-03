@@ -16,5 +16,5 @@ BugReports: https://github.com/<your github username>/<your repository>/issues
 Suggests: 
     testthat (>= 2.1.0)
 Imports: 
-    greta (>=0.3.0),
-    tensorflow (>=1.13.0)
+    greta (>= 0.3.0),
+    tensorflow (>= 1.13.0)

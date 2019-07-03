@@ -7,8 +7,10 @@
 
 <!-- once you've signed into travis and set it to wath your new repository, you can edit the following badges to point to your repo -->
 
-<!-- [![Build Status](https://travis-ci.org/greta-dev/greta.template.svg?branch=master)](https://travis-ci.org/<user>/<repo>) -->
-
+[![Build
+Status](https://travis-ci.org/greta-dev/greta.template.svg?branch=master)](https://travis-ci.org/%3Cuser%3E/%3Crepo%3E)
+[![Codecov test
+coverage](https://codecov.io/gh/greta-dev/greta.template/branch/master/graph/badge.svg)](https://codecov.io/gh/greta-dev/greta.template?branch=master)
 <!-- badges: end -->
 
 This is an empty repository to help you build an extension to greta.
@@ -64,15 +66,18 @@ inspiration or text to copy and adapt\!
       - [ ] the `@description` documentation field of `R/package.R`
   - [ ] Log in to [travis](https://travis-ci.org) (e.g. with your GitHub
     credentials) and turn on tracking of your new repo
-  - [ ] Edit the commented-out travis badge in `README.Rmd` to point to
+  - [ ] edit the [travis](https://travis-ci.org) and
+    [codecov](https://codecov.io) badges in `README.Rmd` to point to
     your package
   - [ ] Write a simple example introducing the package and add it to
     `R/package.R`
   - [ ] Update `README.Rmd` to sell to people with a sales pitch and
     maybe an example that creates a figure, to get people excited about
     your package.
-  - [ ] Start adding functions to the package, along with documentation
-    and examples\!
+  - [ ] Start adding functions, documentation and examples to new R
+    files in `R` folder
+  - [ ] Write some unit tests for these functions in the
+    `tests/testthat` folder
 
 -----
 

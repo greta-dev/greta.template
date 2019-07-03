@@ -1,4 +1,4 @@
-Package: greta.<name>
+Package: greta.template
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
@@ -11,12 +11,14 @@ Description: What the package does (one paragraph).
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/<your github username>/<your repository>
-BugReports: https://github.com/<your github username>/<your repository>/issues
+URL: https://github.com/your_username/your_repository
+BugReports: https://github.com/your_username/your_repository/issues
 Suggests: 
     testthat (>= 2.1.0)
 Imports: 
-    greta (>= 0.3.0),
     tensorflow (>= 1.13.0)
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
+Depends: 
+    greta (>= 0.3.0)
+

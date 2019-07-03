@@ -18,13 +18,12 @@ knitr::opts_chunk$set(
 <!-- use usethis::use_travis() to find the badge for your repo -->
 <!-- badges: end -->
 
-This is an empty repository to help automating extensions to greta.
+This is an empty repository to help automating extensions to greta. It's a [GitHub template repository](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/), so you can make a copy to build your extension from by following these steps:
 
- - Click *Use this template* to the left of *Clone or download*.
+ 1. Click *Use this template* to the left of *Clone or download*.
  ![template](https://i.imgur.com/TcLpIvM.png)
- 
- - Give this repo a new name (preferably `greta.<something>`) and create a new repo in your account.
- - Clone the repository and start filling out all the fields to make the package your own. See Jenny Bryan's [happy git with R](https://happygitwithr.com/push-pull-github.html) if you'd like some help with this.
+ 1. Give this repo a new name (preferably `greta.<something>`) and create a new repo in your account.
+ 1. Clone the repository and start filling out all the fields to make the package your own. See Jenny Bryan's [happy git with R](https://happygitwithr.com/push-pull-github.html) if you'd like some help with this.
 
 **Please don't hit the fork button**, that would make a link between your repository and this one
 

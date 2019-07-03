@@ -11,8 +11,8 @@
 
 <!-- badges: end -->
 
-This is an empty repository to helpyou build an extension to greta. It’s
-a [GitHub template
+This is an empty repository to help you build an extension to greta.
+It’s a [GitHub template
 repository](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/),
 so you can make a copy to build your extension from by following these
 steps:

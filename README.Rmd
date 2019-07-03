@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 <!-- [![Build Status](https://travis-ci.org/greta-dev/greta.template.svg?branch=master)](https://travis-ci.org/<user>/<repo>) -->
 <!-- badges: end -->
 
-This is an empty repository to helpyou build an extension to greta. It's a [GitHub template repository](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/), so you can make a copy to build your extension from by following these steps:
+This is an empty repository to help you build an extension to greta. It's a [GitHub template repository](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/), so you can make a copy to build your extension from by following these steps:
 
  1. Click *Use this template* to the left of *Clone or download*.
  ![template](https://i.imgur.com/TcLpIvM.png)

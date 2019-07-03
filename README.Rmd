@@ -31,4 +31,4 @@ This is an empty repository to help automating extensions to greta.
 
 
 ---
-p.s. thanks @Karthik for the awesome template-template I shamelessly copied from [karthik/binder-test]()https://github.com/karthik/binder-test
+p.s. thanks @Karthik for the awesome template-template I shamelessly copied from [karthik/binder-test](https://github.com/karthik/binder-test)

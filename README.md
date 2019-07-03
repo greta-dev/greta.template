@@ -29,4 +29,4 @@ your repository and this one
 
 p.s. thanks @Karthik for the awesome template-template I shamelessly
 copied from
-[karthik/binder-test]()<https://github.com/karthik/binder-test>
+[karthik/binder-test](https://github.com/karthik/binder-test)

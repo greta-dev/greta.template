@@ -18,3 +18,5 @@ Suggests:
 Imports: 
     greta (>= 0.3.0),
     tensorflow (>= 1.13.0)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1

@@ -81,6 +81,13 @@ inspiration or text to copy and adapt\!
 
 -----
 
-p.s. thanks @Karthik for the awesome template-template I shamelessly
+If you see something missing in this template or the to do list, please
+let us know via the issues, or send a pull request. We’d really
+appreciate it. This template comes with a [Contributor Code of
+Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree
+to abide by its terms. We also hope people using the template will keep
+the Code of Conduct with their package code.
+
+p.s. thanks @karthik for the awesome template-template I shamelessly
 copied from
 [karthik/binder-test](https://github.com/karthik/binder-test)

@@ -57,6 +57,7 @@ Here's a list of things to do once you've made a copy of the template, to make s
  - [ ] Update `README.Rmd` to sell to people with a sales pitch and maybe an example that creates a figure, to get people excited about your package.
  - [ ] Start adding functions, documentation and examples to new R files in `R` folder
  - [ ] Write some unit tests for these functions in the `tests/testthat` folder
+ - [ ] Delete the example function and test files `R/square.R` and `tests/testthat/test-square.R` 
  
 ---
 

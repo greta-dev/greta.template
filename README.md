@@ -78,6 +78,8 @@ inspiration or text to copy and adapt\!
     files in `R` folder
   - [ ] Write some unit tests for these functions in the
     `tests/testthat` folder
+  - [ ] Delete the example function and test files `R/square.R` and
+    `tests/testthat/test-square.R`
 
 -----
 

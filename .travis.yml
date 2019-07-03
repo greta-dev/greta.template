@@ -1,0 +1,6 @@
+# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
+
+language: R
+cache: packages
+
+before_install: Rscript -e 'greta::install_tensorflow(version = "1.14.0", extra_packages = "tensorflow-probability")'

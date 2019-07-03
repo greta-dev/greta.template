@@ -1,4 +1,4 @@
-Package: greta.template
+Package: greta.<name>
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
@@ -11,5 +11,9 @@ Description: What the package does (one paragraph).
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/goldingn/greta.template
-BugReports: https://github.com/goldingn/greta.template/issues
+URL: https://github.com/<your github username>/<your repository>
+BugReports: https://github.com/<your github username>/<your repository>/issues
+Suggests: 
+    testthat (>= 2.1.0)
+Imports: 
+    greta (>=0.3.0)

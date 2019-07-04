@@ -49,6 +49,8 @@ inspiration or text to copy and adapt\!
       - [ ] in the `@name` documentation field in `R/package.R`
       - [ ] at the top of `README.Rmd`
       - [ ] the repo name (if it changed since you made it)
+      - [ ] the R project file; rename it from `greta.template.Rproj` to
+        `greta.<something>.Rproj`
   - [ ] Come up with a helpful package title. Add it to:
       - [ ] the ‘Title’ field in `DESCRIPTION`
       - [ ] the `@title` documentation field in `R/package.R`
@@ -61,6 +63,9 @@ inspiration or text to copy and adapt\!
     See [https://choosealicense.com]() or
     [r-pkgs.org](https://r-pkgs.org/description.html#license) for help
     choosing.
+      - [ ] create the license file and edit the ‘License’ field in
+        `DESCRIPTION` (e.g. with [the `usethis`
+        package](https://usethis.r-lib.org/reference/licenses.html))
   - [ ] Write short paragraph describing the package. Copy it to:
       - [ ] the ‘Description’ field of `DESCRIPTION`
       - [ ] the `@description` documentation field of `R/package.R`

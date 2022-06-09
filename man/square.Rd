@@ -16,8 +16,7 @@ a greta array
 compute the square of a greta array
 }
 \details{
-computes the square of x, in a slightly more efficient manner than
-\code{x ^ 2}
+computes the square of x, in a slightly more efficient manner than \code{x ^ 2}
 }
 \examples{
 x <- variable(dim = c(3, 3))

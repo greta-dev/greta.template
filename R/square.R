@@ -10,8 +10,7 @@ op <- .internals$nodes$constructors$op
 #'
 #' @return a greta array
 #'
-#' @details computes the square of x, in a slightly more efficient manner than
-#'   \code{x ^ 2}
+#' @details computes the square of x, in a slightly more efficient manner than `x ^ 2`
 #' @examples
 #' x <- variable(dim = c(3, 3))
 #' y <- square(x)

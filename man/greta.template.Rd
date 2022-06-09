@@ -3,7 +3,6 @@
 \docType{package}
 \name{greta.template}
 \alias{greta.template}
-\alias{greta.template-package}
 \title{What the Package Does (One Line, Title Case)}
 \description{
 describe your package here, you can re-use the text from DESCRIPTION

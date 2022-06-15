@@ -19,6 +19,8 @@ compute the square of a greta array
 computes the square of x, in a slightly more efficient manner than \code{x ^ 2}
 }
 \examples{
+\dontrun{
 x <- variable(dim = c(3, 3))
 y <- square(x)
+}
 }

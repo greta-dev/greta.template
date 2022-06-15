@@ -12,6 +12,8 @@ Depends:
     greta (>= 0.4.2),
     R (>= 3.1.0)
 Imports: 
+    cli,
+    glue,
     tensorflow (>= 1.14.0)
 Suggests: 
     covr,

@@ -1,8 +1,5 @@
 # an example of a greta function 
 
-# pull out the necessary internal functions from greta
-op <- .internals$nodes$constructors$op
-
 #' @title compute the square of a greta array
 #' @export
 #' 

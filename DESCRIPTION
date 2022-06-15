@@ -30,4 +30,3 @@ RoxygenNote: 7.2.0
 SystemRequirements: Python (>= 2.7.0) with header files and shared
     library; TensorFlow (v1.14; https://www.tensorflow.org/); TensorFlow
     Probability (v0.7.0; https://www.tensorflow.org/probability/)
-
